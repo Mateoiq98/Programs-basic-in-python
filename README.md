@@ -1,1 +1,1 @@
-Este Repositorio es sobre la extraccion de datos realizada en la base de datos IDST
+Este Repositorio es sobre progrmas basico en python
