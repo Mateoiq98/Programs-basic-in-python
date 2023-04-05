@@ -1,1 +1,1 @@
-Este Repositorio es sobre progrmas basico en python
+Este Repositorio es sobre programas basico en python
